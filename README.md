@@ -136,7 +136,15 @@ A key signature is a set of sharp or flat symbols placed at the beginning of a s
 Note how in the number pattern it always adds up to 12 thus ending a full octave (12 half steps) above the root.
 
 ### Key Signatures
-A key signature is a set of sharp or flat symbols placed at the beginning of a staff to indicate the key of the music. It tells the musician which notes are to be played sharp or flat throughout the piece.
+A key signature is a set of sharp or flat symbols placed at the beginning of a staff to indicate the key of the music. It tells the musician which notes are to be played sharp or flat throughout the piece. Use the below chart to reference key signatures for both the treble and bass clefs.
 
-- **Sharp Key Signatures**: Indicate that certain notes are to be played a half step higher.
-- **Flat Key Signatures**: Indicate that certain notes are to be played a half step lower.
+- **Flat Key Signatures**: Indicate that certain notes are to be played a half step lower. The flats in the key signature are placed in a specific order and can be remembered with the mnemonic **B**attle **E**nds **A**nd **D**own **G**oes **C**harles' **F**ather.
+
+    `B♭, E♭, A♭, D♭, G♭, C♭, F♭`
+
+- **Sharp Key Signatures**: Indicate that certain notes are to be played a half step higher. The sharps in the key signature are placed in the opposite order of the flat key signature and can be remembered with the mneumonic **F**ather **C**harles' **G**oes **D**own **A**nd **E**nds **B**attle.
+
+    `F♯, C♯, G♯, D♯, A♯, E♯, B♯`
+
+
+![Key Signatures](key_signatures.png)
