@@ -180,7 +180,7 @@ Generic intervals refer to the distance between two notes in terms of scale degr
 - **Octave**: 8 notes (e.g., C to C)
 
 #### Specific Intervals
-Specific intervals take into account the exact number of half steps between two notes, providing more detailed information about the interval's quality. The terms "major" and "perfect" refer to the intervals "quality". The most common specific intervals are:
+Specific intervals take into account the exact number of half steps between two notes, providing more detailed information about the interval's quality. The terms ***major*** and ***perfect*** refer to the intervals' ***quality***. The most common specific intervals are:
 - **Major Second**: 2 half steps
 - **Major Third**: 4 half steps
 - **Perfect Fourth**: 5 half steps
@@ -209,3 +209,20 @@ A diminished interval has one less half step than a perfect interval. Major inte
 -  **Diminished Eighth**: 11 half steps
 
 ![Intervals](intervals.png)
+
+#### Writing Intervals
+For an example, we will write a diminished fifth from B. First write the B on the staff, and then add the generic fifth on the staff. Next calculate the number of half steps we need to add. Since a perfect fifth has 7 half steps, a diminished fifth would have 6 half steps. So the interval would be `B - > F`, and no accidentals need to be added to the note on the interval. Below is an example of writing the minor third interval from middle C.
+
+
+![Writing Intervals](writing_intervals.png)
+
+#### Inverting Intervals
+In music, the vert "invert" means to move the lowest note in a group an octave higher. In this context we will be inverting intervals. For example inverting a perfect fifth `C -> G`, we would move the lower note C to an octave higher and the new interval would be `G -> C` which is 5 half steps. You can quickly calculate the number of steps by subtracting the number of steps in the original interval from 12. So 12 - 7(perfect fifth) = 5. So `G -> C` is a perfect fourth. Inverting a perfect interval will always result in another perfect interval, e.g. fourths become fifths and vise versa.
+
+Inverting the major third interval `C -> E` results in `E -> C` which is a minor sixth. Inverting majors will always result in a minor and vise versa. Thirds and sixths invert to eachother, while seconds and sevenths invert to eachother.
+
+Finally, diminished and augmented intervals invert to eachother, For example the augmented fourth `C -> F#` inverts to the diminished fifth `F# -> C`. Notice how all the inversions add up to 9 in terms of the names of the intervals regardless of the type.
+
+### Chords
+Tbd.
+
