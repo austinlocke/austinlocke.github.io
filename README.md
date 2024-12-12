@@ -165,3 +165,47 @@ To calculate any flat/sharp major keys associated with any note `X`, you add 7 t
 To calculate any minor key signature you simply subtract three from its major counterpart. For example, the C Minor key signature would be C Major, or 0 minus 3 to get -3. So it would be (B♭, E♭, A♭). The flat/sharp minor key signatures simply require two conversions. First, start with the natural major and convert it to the corresponding flat/sharp major key, and then convert that into the corresponding minor key by subtracting 3. For example, to calculate the C♯ Minor key signature, start with C Major which has a value of 0 and convert to C♯ Major which has a value of 7, and then subtract 3 to get C♯ Minor which has a value of 4.
 
 ![Key Signatures](key_signatures_2.png)
+
+### Intervals
+
+#### Generic Intervals
+Generic intervals refer to the distance between two notes in terms of scale degrees, regardless of the specific pitches. They are named based on the number of letter names they encompass, including both the starting and ending notes. Generic intervals accidentals are ignored. For example:
+- **First/Prime**: Notes on the same line or space (e.g., C to C)
+- **Second**: 2 notes (e.g., C to D)
+- **Third**: 3 notes (e.g., C to E)
+- **Fourth**: 4 notes (e.g., C to F)
+- **Fifth**: 5 notes (e.g., C to G)
+- **Sixth**: 6 notes (e.g., C to A)
+- **Seventh**: 7 notes (e.g., C to B)
+- **Octave**: 8 notes (e.g., C to C)
+
+#### Specific Intervals
+Specific intervals take into account the exact number of half steps between two notes, providing more detailed information about the interval's quality. The terms "major" and "perfect" refer to the intervals "quality". The most common specific intervals are:
+- **Major Second**: 2 half steps
+- **Major Third**: 4 half steps
+- **Perfect Fourth**: 5 half steps
+- **Perfect Fifth**: 7 half steps
+- **Major Sixth**: 9 half steps
+- **Major Seventh**: 11 half steps
+- **Perfect Eighth**: 12 half steps (octave)
+
+#### Minor Intervals
+A minor interval has one less half step than a major interval. Since minor intervals are derived from major intervals, only the following exist:
+-  **Minor Second**: 1 half steps
+-  **Minor Third**: 3 half steps
+-  **Minor Sixth**: 8 half steps
+-  **Minor Seventh**: 10 half steps
+
+#### Augmented Intervals
+An augmented interval has one more half step than a perfect interval. Major intervals can also be augmented by adding a half step. For example:
+-  **Augmented Fourth**: 6 half steps
+-  **Augmented Fifth**: 8 half steps
+-  **Augmented Eighth**: 13 half steps
+
+#### Diminished Intervals
+A diminished interval has one less half step than a perfect interval. Major intervals can also be diminished by subtracting a half step. For example:
+-  **Diminished Fourth**: 4 half steps
+-  **Diminished Fifth**: 6 half steps
+-  **Diminished Eighth**: 11 half steps
+
+![Intervals](intervals.png)
