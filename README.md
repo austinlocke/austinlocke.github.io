@@ -148,3 +148,20 @@ A key signature is a set of sharp or flat symbols placed at the beginning of a s
 
 
 ![Key Signatures](key_signatures.png)
+
+### Key Signature Calculation
+30 differenent key signatures exist. 15 for major scales and 15 for minor scales. Using the key signature calculation method you only need to remember 7 to calculate the rest. In the calculation method each key signature is assigned a numerical value based on the number and type of accidentals. Sharps are positive (going up in pitch) and flats are negative (going down in pitch).
+
+1. **C Major** has no accidentals, so its value is **0**
+2. **D Major** has two sharps, so its value is **2**
+3. **E Major** has four sharps, so its value is **4**
+4. **F Major** has one flat, so its value is **-1**
+5. **G Major** has one sharp, so its value is **1**
+6. **A Major** has three sharps, so its value is **3**
+7. **B Major** has five sharps, so its value is **5**
+
+To calculate any flat/sharp major keys associated with any note `X`, you add 7 to get the `X♯` major key signature and subtract 7 to get the `X♭` major key signature. For example, if we start with the C Major key signature, we add 7 to get the C♯ Major key signature of 7 (F♯, C♯, G♯, D♯, A♯, E♯, B♯), and conversely, if we subtract 7, we get the C♭ Major key signature of -7 (B♭, E♭, A♭, D♭, G♭, C♭, F♭).
+
+To calculate any minor key signature you simply subtract three from its major counterpart. For example, the C Minor key signature would be C Major, or 0 minus 3 to get -3. So it would be (B♭, E♭, A♭). The flat/sharp minor key signatures simply require two conversions. First, start with the natural major and convert it to the corresponding flat/sharp major key, and then convert that into the corresponding minor key by subtracting 3. For example, to calculate the C♯ Minor key signature, start with C Major which has a value of 0 and convert to C♯ Major which has a value of 7, and then subtract 3 to get C♯ Minor which has a value of 4.
+
+![Key Signatures](key_signatures_2.png)
