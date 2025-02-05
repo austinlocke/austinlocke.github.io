@@ -6,9 +6,11 @@
 
 #### The Staff
 The staff is a set of five horizontal lines and four spaces that each represent a different musical pitch. Notes are placed on the lines and in the spaces.
+Can be remembered by Every Good Boy Does Fine (EGBDF) and FACE (FACE).
 
 #### Clefs
 Clefs are symbols at the beginning of the staff that determine the pitch of the notes on the staff. The most common clefs are the Treble Clef and the Bass Clef.
+Can be remembered by Good Birds Don't Fly Away (GBDFA) and All Cows Eat Grass (ACEG)
 
 - **Treble Clef**: Also known as the G clef, it wraps around the second line of the staff, indicating that this line is the note G above middle C.
 - **Bass Clef**: Also known as the F clef, it has two dots above and below the fourth line of the staff, indicating that this line is the note F below middle C.
