@@ -228,3 +228,21 @@ Finally, diminished and augmented intervals invert to eachother, For example the
 ### Chords
 Tbd.
 
+
+### CAGED System
+
+You can play the major open chord shapes up the neck by playing a series of "shapes" up the neck according to the pattern defined by CAGED.
+
+For example if you play a C chord in position 1 (standard open shape) you get a C chord. 
+If you wanted to play a C chord in position 2, you would need to play an A shape two frets up while barring the second fret (to act as the nut of the guitar)
+C -> A = C
+If you wanted to play an A chord in position 2 you would need to play a G shape bared on the second fret etc.
+A -> G = A
+If you wanted to play a G chord in position 2 you would need to play a E shape bared on the second fret etc.
+G -> E = G
+If you wanted to play an E chord in position 2 you would need to play a D shape bared on the second fret etc.
+E -> D = E
+If you wanted to play an D chord in position 2 you would need to play a C shape bared on the second fret etc.
+D -> C = D
+
+This pattern continues up the neck in a similar way to play all the major chords up the neck.
